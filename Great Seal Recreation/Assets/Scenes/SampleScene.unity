@@ -53018,6 +53018,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pyramid0
       objectReference: {fileID: 0}
+    - target: {fileID: 1244170007826287078, guid: 6ba6e3ac1d4cb8943b8c7d94c6bf5bd9, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 041264ecb2834064194bf8d873760bf8, type: 2}
+    - target: {fileID: 1244170008097897553, guid: 6ba6e3ac1d4cb8943b8c7d94c6bf5bd9, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 041264ecb2834064194bf8d873760bf8, type: 2}
+    - target: {fileID: 1244170008271270331, guid: 6ba6e3ac1d4cb8943b8c7d94c6bf5bd9, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 041264ecb2834064194bf8d873760bf8, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6ba6e3ac1d4cb8943b8c7d94c6bf5bd9, type: 3}
 --- !u!4 &1244170006827549657 stripped

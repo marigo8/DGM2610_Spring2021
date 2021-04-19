@@ -89,9 +89,33 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 214837840828855442}
     m_Modifications:
+    - target: {fileID: 92819141399878584, guid: fd77999c9d5c02144b8afe6e45b28f6f, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 814843729118705306, guid: fd77999c9d5c02144b8afe6e45b28f6f, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.a
+      value: 0.5686275
+      objectReference: {fileID: 0}
+    - target: {fileID: 814843729118705306, guid: fd77999c9d5c02144b8afe6e45b28f6f, type: 3}
+      propertyPath: InitialModule.startColor.minColor.a
+      value: 0.6117647
+      objectReference: {fileID: 0}
     - target: {fileID: 2711819321338465248, guid: fd77999c9d5c02144b8afe6e45b28f6f, type: 3}
       propertyPath: m_Name
       value: Fire0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4954591519009293629, guid: fd77999c9d5c02144b8afe6e45b28f6f, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 9.43285
+      objectReference: {fileID: 0}
+    - target: {fileID: 4954591519009293629, guid: fd77999c9d5c02144b8afe6e45b28f6f, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 9.432843
+      objectReference: {fileID: 0}
+    - target: {fileID: 4954591519009293629, guid: fd77999c9d5c02144b8afe6e45b28f6f, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 9.432843
       objectReference: {fileID: 0}
     - target: {fileID: 7699562099793441228, guid: fd77999c9d5c02144b8afe6e45b28f6f, type: 3}
       propertyPath: m_RootOrder

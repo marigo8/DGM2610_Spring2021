@@ -117,7 +117,7 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 0
     m_Colors:
-    - Color_88FC9AF6: {r: 0.7735849, g: 0.7735849, b: 0.7735849, a: 1}
+    - Color_88FC9AF6: {r: 0.7715468, g: 0.7715468, b: 0.7715468, a: 1}
     - Color_CB97221B: {r: 0.17254902, g: 0.49803922, b: 0.81960785, a: 1}
     - Vector2_311AD70F: {r: -0.82, g: 1, b: 0, a: 0}
     - Vector2_AD4826F3: {r: 0.75, g: 0.85, b: 0, a: 0}

@@ -10,7 +10,7 @@ Material:
   m_Name: CloudMat
   m_Shader: {fileID: -6465566751694194690, guid: c187104b60a7d6e42aa39dfd2c699af7, type: 3}
   m_ShaderKeywords: 
-  m_LightmapFlags: 4
+  m_LightmapFlags: 2
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: 2999
@@ -48,10 +48,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - Vector1_1908489E: 1.29
+    - Vector1_1908489E: 1.26
     - Vector1_4B4D2A1F: 3
-    - Vector1_4D2CA8B9: 10.13
+    - Vector1_4D2CA8B9: 12
     - Vector1_C28F8257: 2.17
+    - Vector1_DE72AD23: 1
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
@@ -74,11 +75,13 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
-    - Color_8BA92BE2: {r: 7.529412, g: 10.415687, b: 11.984314, a: 1}
-    - Vector2_5B0DD8CC: {r: 0, g: 0, b: 0, a: 0}
-    - Vector2_9D11B64: {r: 0.5, g: 1, b: 0, a: 0}
+    - Color_8BA92BE2: {r: 0.704469, g: 0.915, b: 0.8704646, a: 1}
+    - Color_965D4CB9: {r: 0.99575233, g: 1.415259, b: 1.5094341, a: 1}
+    - Vector2_5B0DD8CC: {r: 0, g: 0.9, b: 0, a: 0}
+    - Vector2_842F6F62: {r: -19.93, g: 0, b: 0, a: 0}
+    - Vector2_9D11B64: {r: 0.5, g: 0.9, b: 0, a: 0}
     - Vector2_B42865D4: {r: -0.02, g: 0.01, b: 0, a: 0}
-    - Vector2_D7AA0048: {r: -0.03, g: 0, b: 0, a: 0}
+    - Vector2_D7AA0048: {r: -0.01, g: -0.005, b: 0, a: 0}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}

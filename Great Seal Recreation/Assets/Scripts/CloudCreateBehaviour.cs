@@ -20,9 +20,9 @@ public class CloudCreateBehaviour : MonoBehaviour
 
             var baseValue = mat.GetVector("Vector2_5B0DD8CC");
 
-            var step = Mathf.PingPong(((i * 1f) / layerCount) * 2, 1);
-            baseValue.x = Mathf.Lerp(1f, baseValue.x, step);
-            baseValue.x = Mathf.Clamp(baseValue.x, 0, .9f);
+            var step = Mathf.PingPong(((i * 1f) / layerCount) * 2, .9f);
+            baseValue.x = Mathf.Lerp(.9f, baseValue.x, step);
+            baseValue.x = Mathf.Clamp(baseValue.x, 0, .89f);
 
             mat.SetVector("Vector2_5B0DD8CC", baseValue);
         }
